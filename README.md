@@ -78,6 +78,11 @@ I then ran "terraform init" to initialize and prepare the directory for terrafor
 
 
 
+### AWS Console View: Instance summary confirming active state (Running), t3.micro instance type, and network details in the London region.
+
+
+
+<img width="1868" height="892" alt="image" src="https://github.com/user-attachments/assets/49211ac8-dabc-4e69-b522-c022e9aba3ba" />
 
 
 
