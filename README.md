@@ -87,6 +87,14 @@ I then ran "terraform init" to initialize and prepare the directory for terrafor
 
 
 
+### Current terraform workflow sequence 
+
+1. Write .tf code (provider.tf and ec2.tf)
+2. Run "terraform init" - This downloads the AWS provider plugin (hashicorp/aws) and sets up the .terrform working directory
+3. Setting up the credentials using "aws configure" so terraform can talk to AWS.
+4. terraform plan - Previews what resources will be created.
+5. terrform apply - creates the actual infrastructure in AWS
+
 
 
 
