@@ -119,6 +119,11 @@ I then ran "terraform init" to initialize and prepare the directory for terrafor
 
 ## Input Variables - terraform.tfvars 
 
+tfvars is a good practice method for engineers as you are able to easily change settings for different environments with editing your main code. 
+
+
+
+A tfvar file is a configuration file used to supply actual, real world values to Terraform variables. A .tf file creates the blueprints and structure of your infrastructure, the .tfvars file simple holds the specific values like names or sizes to fill in that blueprint. 
 
 
 <img width="1135" height="857" alt="image" src="https://github.com/user-attachments/assets/9765ec97-e43d-4553-b022-a591005b8608" />
