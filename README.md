@@ -149,6 +149,24 @@ A tfvar file is a configuration file used to supply actual, real world values to
 
 
 
+## Local Variables
+
+A local variable in terraform is just an internal shortcut that is defined to a reuse a value throughout the infrastructure code without repeating it. 
+
+
+In the example below, I set up a local.instance_ami in the code so it can easily be reused and I am able to manage the AMI ID from one central spot. 
+
+
+A local variable is more private compared to an input variable as it is hardcoded inside the project so outside users can't touch or change it. Whereas an input variable lets users pass values in from the outside just like a setting you can change. 
+
+
+<img width="1149" height="348" alt="image" src="https://github.com/user-attachments/assets/d8401489-8574-414f-ab3c-1afd8ab7bfa5" />
+
+
+
+<img width="1112" height="648" alt="image" src="https://github.com/user-attachments/assets/910d59cd-6a5a-484f-9de5-16de815be110" />
+
+
 
 
 
