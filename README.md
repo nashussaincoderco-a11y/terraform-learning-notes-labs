@@ -170,6 +170,25 @@ A local variable is more private compared to an input variable as it is hardcode
 
 
 
+## Output Variables 
+
+
+
+<img width="634" height="368" alt="image" src="https://github.com/user-attachments/assets/fb1c7b6c-1fdb-4854-b9eb-edd93ffff931" />
+
+
+
+
+<img width="1134" height="820" alt="image" src="https://github.com/user-attachments/assets/43e056e1-048a-4360-b689-e28daacd0a73" />
+
+
+
+
+
+
+
+
+
 
 
 
