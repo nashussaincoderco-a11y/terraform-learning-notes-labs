@@ -99,3 +99,56 @@ I then ran "terraform init" to initialize and prepare the directory for terrafor
 
 
 
+
+## Input Variable
+
+
+
+<img width="1140" height="860" alt="image" src="https://github.com/user-attachments/assets/655e982a-61ea-459d-a5f3-713f7ae8a6f3" />
+
+
+
+
+
+<img width="942" height="230" alt="image" src="https://github.com/user-attachments/assets/c3d2eba5-21d9-4ba0-8b04-b744dfde1c33" />
+
+
+
+
+
+
+## Input Variables - terraform.tfvars 
+
+
+
+<img width="1135" height="857" alt="image" src="https://github.com/user-attachments/assets/9765ec97-e43d-4553-b022-a591005b8608" />
+
+
+
+
+
+<img width="1058" height="255" alt="image" src="https://github.com/user-attachments/assets/e019ad36-cb6a-40cb-ae09-dedc6a0cbe3d" />
+
+
+
+
+
+<img width="1077" height="264" alt="image" src="https://github.com/user-attachments/assets/072e6d40-a0e8-41df-88f0-f8233e5e0b83" />
+
+
+
+
+<img width="1126" height="434" alt="image" src="https://github.com/user-attachments/assets/ab190aec-2f9b-4b29-b65d-d088d75c284a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
