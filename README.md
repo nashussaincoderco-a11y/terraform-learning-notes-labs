@@ -189,6 +189,100 @@ A local variable is more private compared to an input variable as it is hardcode
 
 
 
+## Terraform Modules
+
+
+I am going to modularise my EC2 instance configuration in the EC2.tf file. 
+
+
+
+
+
+<img width="1267" height="256" alt="image" src="https://github.com/user-attachments/assets/7733b74c-a0fc-4da9-9144-f50ae10125c0" />
+
+
+
+
+
+<img width="362" height="80" alt="image" src="https://github.com/user-attachments/assets/1c12822e-5508-49ec-99c9-4f629b720cd8" />
+
+
+
+
+
+
+<img width="170" height="85" alt="image" src="https://github.com/user-attachments/assets/80ebef41-71e3-48df-ad9d-a55d24881332" />
+
+
+
+
+
+
+<img width="1540" height="1020" alt="image" src="https://github.com/user-attachments/assets/d816161d-2577-4fab-b6f4-1afefbf6e0a9" />
+
+
+
+
+
+
+
+
+
+<img width="1116" height="336" alt="image" src="https://github.com/user-attachments/assets/9547c411-5b14-4497-a8ea-13d55a1d0bba" />
+
+
+
+
+
+
+
+
+
+<img width="971" height="534" alt="image" src="https://github.com/user-attachments/assets/d195ca83-bd92-4bbe-8fad-98121be82959" />
+
+
+
+
+
+
+
+<img width="523" height="199" alt="image" src="https://github.com/user-attachments/assets/cbba8329-9e57-470e-b0b3-bc5a11b9e57d" />
+
+
+
+
+
+
+
+<img width="1294" height="458" alt="image" src="https://github.com/user-attachments/assets/4f282474-d5d4-490b-ac75-08cb7f707d8c" />
+
+
+
+
+
+
+
+<img width="808" height="411" alt="image" src="https://github.com/user-attachments/assets/f966daa0-59b7-4dae-afce-1f60f01c6eef" />
+
+
+
+
+
+
+<img width="1100" height="824" alt="image" src="https://github.com/user-attachments/assets/5d98d657-3932-4aa6-8319-93ef1f392eb7" />
+
+
+
+
+
+
+
+
+<img width="846" height="816" alt="image" src="https://github.com/user-attachments/assets/aaf92d4a-c39d-4610-8ee5-284392e7d2ab" />
+
+
+
+
 
 
 
