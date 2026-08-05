@@ -284,6 +284,19 @@ I am going to modularise my EC2 instance configuration in the EC2.tf file.
 
 
 
+## Terraform Destroy 
+
+
+
+
+
+<img width="891" height="499" alt="image" src="https://github.com/user-attachments/assets/aec90b4b-8cb7-499c-ad46-a888518dcedf" />
+
+
+
+
+
+
 
 
 
